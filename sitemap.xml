@@ -6,13 +6,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://slowwbbq.com/images/logo.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://slowwbbq.com/images/facebook-logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://slowwbbq.com/images/whatsapp-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://slowwbbq.com/images/logoweb%20alt.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
