@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="slowwbbq.com" resolutions="1x" timestamp="1513695436479">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="slowwbbq.com" resolutions="1x" timestamp="1513695979064">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="279004416" ref="index"/>
@@ -23,5 +23,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3943826796" seo="true" mt="1513694505191" redirect="true"/>
+  <file name="index.html" crc="280045635" seo="true" mt="1513695936684" redirect="true"/>
 </manifest>
